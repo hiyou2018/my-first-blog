@@ -1,5 +1,5 @@
 C:\Users\Name\djangogirls > myvenv\Scripts\activate
 python manage.py runserver
 blog
-  Username: hiyou
+  Username: hiyou2018
   Email address: darkgreendarkgreen@yahoo.co.jp
